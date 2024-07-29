@@ -8,7 +8,7 @@ body {
 
 /* Estilo do cabeçalho */
 header {
-    background-color: #919191; /* Define a cor de fundo do cabeçalho */
+    background-color: #00eeff; /* Define a cor de fundo do cabeçalho */
     color: #011aff; /* Define a cor do texto do cabeçalho */
     text-align: center; /* Centraliza o texto do cabeçalho */
     padding: 1em 0; /* Adiciona preenchimento vertical ao cabeçalho */
